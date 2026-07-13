@@ -3,7 +3,7 @@ name: dirtywork-learning
 description: transform repetitive, low-autonomy, or seemingly menial internship tasks into structured learning, business insight, process-improvement ideas, and credible resume or interview material. use when a user describes non-technical internship dirtywork such as calling users, screening content, printing contracts, copying data, competitor research, running errands, or other mechanical operations and wants to understand what can be learned from it, how to work more intelligently, or how to express its value without exaggeration.
 ---
 
-# Dirtywork Learning
+# 脏活炼金术（Dirtywork Learning）
 
 ## Purpose
 
