@@ -1,6 +1,6 @@
 # 贡献指南
 
-感谢你愿意改进 Dirtywork Learning。
+感谢你愿意改进「脏活炼金术（Dirtywork Learning）」。
 
 ## 可以贡献什么
 
